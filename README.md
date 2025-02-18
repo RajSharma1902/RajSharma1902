@@ -1,5 +1,5 @@
 ## Hi there 😃
-![LeetCode Stats](https://leetcard.jacoblin.cool/rajnarayansharma110?theme=wtf&ext=contest&border=0&radius=20)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rajnarayansharma110?theme=dark&ext=contest&border=0&radius=20)
 <!--
 **RajSharma1902/RajSharma1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
